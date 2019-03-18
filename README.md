@@ -16,10 +16,10 @@ Dentro de la renovación tecnológica, se requiere generar un sitio corporativo 
 
 ### Objetivos del Proyecto:
 
-Brindar a la entidades suscriptoras y a Transperian una herramienta tecnológica altamente escalable que soporte la alimentación continua de datos provenientes de dichas entidades suscriptoras a Transperian; y, a su vez  facilitar su tratamiento; para generar estadísticas de pago y nivel de endeudamiento de un ciudadano, permitiendo que dichas estadísticas estén siempre disponible a los clientes de Transperian a través de reportes descargables .
+Brindar a la entidades suscriptoras y a Transperian una herramienta tecnológica altamente escalable que soporte la alimentación continua de datos provenientes de dichas entidades suscriptoras a Transperian; y, a su vez  facilitar su tratamiento; para generar estadísticas de pago y nivel de endeudamiento de un ciudadano, permitiendo que dichas estadísticas estén siempre disponible a los clientes de Transperian a través de reportes descargables.
 
 ### Alcance: 
-Diseño e implementación de una herramienta que permita a las entidades suscriptoras subir información financiera de sus clientes ; generar estadísticas de pago y nivel de endeudamiento de un ciudadano reflejados en  reportes accesibles por las entidades suscriptoras.
+Diseño e implementación de una herramienta que permita a las entidades suscriptoras subir información financiera de sus clientes, generar estadísticas de pago y nivel de endeudamiento de un ciudadano reflejados en  reportes accesibles por las entidades suscriptoras.
 
 ### Listado de tareas
 * Revisión del estado actual del sistema de generación de estadísticas de Transperian.
