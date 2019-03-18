@@ -51,5 +51,7 @@ Diseño e implementación de una herramienta que permita a las entidades suscrip
 ![Estimación](Estimacion.png?raw=true "Estimación")
 https://docs.google.com/spreadsheets/d/e/2PACX-1vTCDBuZT5UsMydfEr-azfYggu1OrEt0Qao2rUBd4FD_a2FrABE5U5MOl6FfFGvlsVfSg0cdAErKfOd5/pubhtml
 
+### Cronograma
+![Cronograma](Cronograma.png?raw=true "Cronograma")
 
 
