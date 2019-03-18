@@ -8,8 +8,7 @@ Luis Felipe Duitma Castillo
 ## Estimación de costos
 
 <figure class="video_container">
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTCDBuZT5UsMydfEr-azfYggu1OrEt0Qao2rUBd4FD_a2FrABE5U5MOl6FfFGvlsVfSg0cdAErKfOd5/pubhtml?widget=true&amp;headers=false"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTCDBuZT5UsMydfEr-azfYggu1OrEt0Qao2rUBd4FD_a2FrABE5U5MOl6FfFGvlsVfSg0cdAErKfOd5/pubhtml?widget=true&amp;headers=false"> </iframe>
 </figure>
 
-
-
+## Objetivos
