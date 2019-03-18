@@ -5,6 +5,6 @@ Sara Guzmán
 Pilar Mass
 Luis Felipe Duitma Castillo
 
-##Estimación de costos
-{google_docs}https://docs.google.com/spreadsheets/d/e/2PACX-1vTCDBuZT5UsMydfEr-azfYggu1OrEt0Qao2rUBd4FD_a2FrABE5U5MOl6FfFGvlsVfSg0cdAErKfOd5/pubhtml{/google_docs}
+## Estimación de costos
+[embedmd]:# (https://docs.google.com/spreadsheets/d/e/2PACX-1vTCDBuZT5UsMydfEr-azfYggu1OrEt0Qao2rUBd4FD_a2FrABE5U5MOl6FfFGvlsVfSg0cdAErKfOd5/pubhtml)
 
