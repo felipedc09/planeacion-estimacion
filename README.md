@@ -1,9 +1,5 @@
 # Estimación proyecto NOVEDAT TRANSPERIAN
 Ejercicio de estimación de tiempo y costos a partir de la definición. detallada de tareas que se deben cumplir para cumplir unos objetivos definidos
-## Integrantes
-- Sara Guzmán - 20172678005
-- Pilar Mass - 20191099031
-- Luis Felipe Duitma Castillo - 20112020005
 
 ## NOVEDAT TRANSPERIAN
 Transperian es una Central de Información Crediticia líder en el mercado andino con presencia en Colombia, Perú y Venezuela. Provee Soluciones Integrales a los principales sectores de la economía para la toma de mejores decisiones en el ciclo de otorgamiento de crédito; a través de la administración de la base de datos más completa del país con información de identificación, localización demográfica, hábito de pago y nivel de endeudamiento de personas naturales y jurídicas.
